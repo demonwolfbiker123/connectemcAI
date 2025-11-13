@@ -8,7 +8,7 @@ To create the default admin account:
 2. Click "Don't have an account? Sign up"
 3. Register with these credentials:
    - **Email**: `admin@connectemc.ai`
-   - **Password**: `123123`
+   - **Password**: ``
 4. The system will automatically assign admin role to this email address
 5. You'll be redirected to the Admin Dashboard after registration
 
