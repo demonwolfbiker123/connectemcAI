@@ -70,7 +70,6 @@ Required environment variables (set in Replit Secrets):
 
 **Default Admin Credentials:**
 - Email: `admin@connectemc.ai`
-- Password: `123123`
 
 The system automatically assigns admin role to this email address upon registration. See `ADMIN_SETUP.md` for more details.
 
